@@ -29,7 +29,7 @@ You can check the responsive behavior in the following modes:
 
 ---
 
-## 🔗 How to View the Project
+##  How to View the Project
 1. Download or clone the repository:
 2. Open the 'lab3.html' file in any web browser  
 3. Reduce window width to observe responsive behavior
