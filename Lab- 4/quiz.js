@@ -84,7 +84,7 @@ function runQuiz() {
       break;
 
     case (score >= 1 && score <= 2):
-      alert("You can do it, just try! Don't give up!");
+      alert("Please Improve!");
       break;
 
     default:
@@ -94,3 +94,4 @@ function runQuiz() {
 
 
 runQuiz();
+
